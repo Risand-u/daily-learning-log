@@ -1,4 +1,4 @@
-# Day 24 - February 24, 2026
+# Day 1 - February 24, 2026
 
 ## Topic: Cisco Networking Basics (Packet Tracer)
 
