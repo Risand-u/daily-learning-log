@@ -65,7 +65,6 @@ Usable IP Range
 192.168.1.63 = Notice board ❌
 
 ### Subnetting
-
 Dividing one big network into smaller networks.
 Like dividing a building into separate floors.
 
@@ -114,7 +113,6 @@ ip dhcp excluded-address 192.168.1.1 192.168.1.10
     first usable IP on the network
 
 ---
-
 ## Simple Summary of Everything So Far
 Router    = security guard, connects networks
 Switch    = hallway, connects devices
