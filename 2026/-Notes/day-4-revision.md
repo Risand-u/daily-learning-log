@@ -27,7 +27,7 @@ and which part is the device.
 255.255.255 = Network part
 0           = Device part
 
-### Important Subnet Terms
+### Important Subnet Terms 
 
 Network Address
 192.168.1.0
@@ -65,6 +65,7 @@ Usable IP Range
 192.168.1.63 = Notice board ❌
 
 ### Subnetting
+
 Dividing one big network into smaller networks.
 Like dividing a building into separate floors.
 
