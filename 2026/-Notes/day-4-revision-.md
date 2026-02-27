@@ -25,7 +25,8 @@ It tells other devices where to send data.
 Tells the device which part of IP is the network
 and which part is the device.
 255.255.255 = Network part
-0           = Device part
+0           = Device part 
+
 
 ### Important Subnet Terms 
 
@@ -113,6 +114,7 @@ ip dhcp excluded-address 192.168.1.1 192.168.1.10
     first usable IP on the network
 
 ---
+
 ## Simple Summary of Everything So Far
 Router    = security guard, connects networks
 Switch    = hallway, connects devices
