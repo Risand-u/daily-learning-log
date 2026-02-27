@@ -9,7 +9,7 @@ Status: ✅ Completed
 ## What I Did Today
 - Reviewed and restudied all previous topics
 - Cleared confusion about Network Address,
-  Broadcast Address and Default Gateway
+   Broadcast Address and Default Gateway
 - Strengthened understanding of subnetting concepts
 - Reviewed DHCP configuration and how it works
 
