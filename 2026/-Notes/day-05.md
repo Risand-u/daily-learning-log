@@ -194,5 +194,4 @@ Server   = always needs static IP
 
 
 ---
-Next Topic: Day 6 — Static and Dynamic Routing
-Previous Topic: Day 4 — Review and Revision
+
