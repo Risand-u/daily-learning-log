@@ -193,5 +193,3 @@ Server   = always needs static IP
 ---
 
 
----
-
