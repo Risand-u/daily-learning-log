@@ -192,9 +192,6 @@ Server   = always needs static IP
 
 ---
 
-## Tomorrow I Want to Learn
-Static and Dynamic Routing (OSPF)
-How routers find the best path to send data
 
 ---
 Next Topic: Day 6 — Static and Dynamic Routing
