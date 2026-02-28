@@ -190,6 +190,5 @@ Server   = always needs static IP
 - Remembered to renew DHCP on PCs after
   updating DNS server IP
 
----
 
 
