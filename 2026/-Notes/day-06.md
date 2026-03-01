@@ -200,6 +200,4 @@ Stage 2 topics:
 - Port Security
 - Wireless Network Setup
 
----
-Next Topic: Day 7 — Static and Dynamic Routing
 
