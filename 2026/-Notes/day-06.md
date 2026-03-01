@@ -143,7 +143,7 @@ Project 4 - DNS
 - Added DNS server to network
 - Created DNS records
 - PCs find websites by name
-Status: 📖 Uploading Tomorrow
+Status: ✅ Completed
 
 ---
 
