@@ -153,7 +153,7 @@ network-security-lab
 ├── basic-network  ✅
 ├── subnetting     ✅
 ├── dhcp           ✅
-└── dns            📖 uploading tomorrow
+└── dns            ✅
 
 networking-roadmap
 Stage 1:
