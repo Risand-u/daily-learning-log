@@ -193,6 +193,4 @@ Build Inter-VLAN Routing project
 in Packet Tracer and test connectivity
 between VLANs!
 
----
-Next Topic: Day 10 — Inter-VLAN Routing Project
-Previous Topic: Day 8 — Project Review
+
