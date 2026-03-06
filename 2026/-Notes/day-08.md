@@ -188,9 +188,4 @@ Router on stick  = one cable handles all VLANs
 
 ---
 
-## Tomorrow
-Build Inter-VLAN Routing project
-in Packet Tracer and test connectivity
-between VLANs!
-
 
